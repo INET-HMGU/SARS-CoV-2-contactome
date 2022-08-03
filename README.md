@@ -1,4 +1,4 @@
-# A proteome-scale map of the SARS-CoV-2 Contactome
+# A proteome-scale map of the SARS-CoV-2-human Contactome
 
 This repository contains the code for the analysis of the SARS-CoV-2-human contactome.
 
